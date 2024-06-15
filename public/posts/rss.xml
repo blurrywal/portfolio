@@ -26,6 +26,8 @@
 
 
 
+    
+
 
 
 
@@ -42,7 +44,7 @@
             
 
             
-                <link href="http://localhost:1313/" rel="self" type="text/html"/>
+                <link href="http://localhost:1313/posts/" rel="self" type="text/html"/>
             
         
             
@@ -50,7 +52,7 @@
             
 
             
-                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="http://localhost:1313/posts/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
@@ -68,11 +70,11 @@
             <lastBuildDate>2024-06-15 04:20:26 +0100 CET</lastBuildDate>
         
 
-        <link>http://localhost:1313/</link>
+        <link>http://localhost:1313/posts/</link>
 
         
 
-        <title>My New Hugo Site</title>
+        <title>Posts · My New Hugo Site</title>
 
         
 
